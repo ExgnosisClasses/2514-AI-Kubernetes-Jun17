@@ -13,7 +13,7 @@
 
 The VM assignments are located here
 
-[vm assignments]()
+[vm assignments](https://docs.google.com/spreadsheets/d/1ydeIfh8Pegb1ydJq3Hft_HjoEqlcFccCNq4kfWk5OEE/edit?usp=sharing)
 
 The memory size of the VMs has been changed. The minikube command that you should use instead is
 
